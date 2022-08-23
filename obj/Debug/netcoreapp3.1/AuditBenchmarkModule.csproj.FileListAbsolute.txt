@@ -259,3 +259,4 @@ C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule\obj\D
 C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
 C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
 C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache

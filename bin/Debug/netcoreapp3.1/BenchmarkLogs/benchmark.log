@@ -514,3 +514,9 @@ INFO  03:26:41  Http GET request BenchmarkRepo
 INFO  07:41:46  Http GET request AuditBenchmarkController
 INFO  07:41:46  Http GET request BenchmarkProvider
 INFO  07:41:46  Http GET request BenchmarkRepo
+INFO  12:54:28 Application started. Press Ctrl+C to shut down.
+INFO  12:54:28 Application started. Press Ctrl+C to shut down.
+INFO  12:54:28 Hosting environment: Development
+INFO  12:54:28 Hosting environment: Development
+INFO  12:54:28 Content root path: C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule
+INFO  12:54:28 Content root path: C:\Users\Shali\OneDrive\Desktop\FSE\AMS\AMS - Backend\AuditBenchmarkModule

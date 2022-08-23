@@ -13,8 +13,8 @@ spec:
         app: AuditBenchmarkModule
     spec:
       containers:
-      - name: dockersamplerepos
-        image: 3acr.azurecr.io/dockersamplerepos:latest
+      - name: auditbenchmarkmodule
+        image: amsbenchmarkservicecr.azurecr.io/dockersamplerepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
